@@ -12,6 +12,7 @@ private void test1() {
 	@Test
 	private void test2() {
 		System.out.println("testB"); 
+		System.out.println("test B2");
 
 	}
 	
